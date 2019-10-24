@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.3",
-    "mongoose": "^5.1.4",
+    "mongoose": "^5.7.5",
     "socket.io": "^2.1.1",
     "winston": "^3.0.0-rc5",
     "winston-loggly-bulk": "^2.0.2"
